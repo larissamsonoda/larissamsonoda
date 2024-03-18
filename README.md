@@ -2,7 +2,7 @@
 
 <p align="right">
   <a href="https://www.linkedin.com/in/larissa-sonoda/">
-    <img src="linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
