@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/larissamsonoda/larissamsonoda/Header Linked In Docker SPREAD - JAN2024_Prancheta 1 cópia 11.png "Header")](https://www.linkedin.com/in/larissa-sonoda/)
+[![Header](https://raw.githubusercontent.com/larissamsonoda/larissamsonoda/capa "Header")](https://www.linkedin.com/in/larissa-sonoda/)
 
 <p align="right">
   <a href="https://www.linkedin.com/in/larissa-sonoda/">
